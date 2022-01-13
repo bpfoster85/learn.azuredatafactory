@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "CopyFromBlobToBlob",
+				"name": "COPY STUFF",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
