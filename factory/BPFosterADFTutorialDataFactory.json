@@ -1,0 +1,9 @@
+{
+	"name": "BPFosterADFTutorialDataFactory",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe2aaed3-cc51-4a4f-a771-3a9af53e7893",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
